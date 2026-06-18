@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+fairprice.db
+fairprice.sql
+fairprice_raw_*.json
+*.bak
